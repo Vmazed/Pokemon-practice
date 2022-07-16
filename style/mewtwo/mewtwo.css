@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: gainsboro;
+    color: rgb(168, 99, 157);
+}
+
+.a{
+    text-align: center;
+}
+
+li{
+    list-style: none;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}

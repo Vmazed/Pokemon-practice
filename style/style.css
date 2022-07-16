@@ -44,4 +44,7 @@ body{
 .pokemon{
     flex-direction: column;
 }
+.pokemon{
+    text-align: center;
+}
 }
